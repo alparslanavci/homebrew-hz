@@ -1,8 +1,8 @@
 class Hazelcast < Formula
   desc "Tool to run Hazelcast IMDG member instances locally"
   homepage "https://github.com/hazelcast/hazelcast-command-line"
-  url "https://github.com/hazelcast/hazelcast-command-line/releases/download/v4.2020.09/hazelcast-command-line-4.2020.09.tar.gz"
-  sha256 "b2a98a9a6d130d1c5a693b52640af0d721ce6c14e89b5be437a869d1207d901c"
+  url "https://github.com/alparslanavci/hazelcast-command-line/releases/download/v4.2020.10/hazelcast-4.1-BETA-1.tar.gz"
+  sha256 "7cc639a3fb39553b2c2f1bc508711029fac01a59c2f654fa359e0693ce351ad3"
 
   bottle :unneeded
 
